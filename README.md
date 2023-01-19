@@ -1,6 +1,7 @@
 # [Z-Classifier]
 
 ## A system that classify the user data with a zombie theme.
+![Illustrative_Zombie](https://static.wikia.nocookie.net/plague-inc/images/7/75/Versão2_IRM_Estágio_6_Vírus_Necroa.png/revision/latest?cb=20191029002223&path-prefix=pt-br)
 ## The system use the [sklearn](https://scikit-learn.org/stable/index.html) library<br>With the [KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html?highlight=kneighborsclassifier#sklearn.neighbors.KNeighborsClassifier) and [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html?highlight=randomforestclassifier#sklearn.ensemble.RandomForestClassifier).
 
 # [Example]
