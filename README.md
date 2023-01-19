@@ -1,7 +1,7 @@
 # [Z-Classifier]
 
 ## A system that classify the user data with a zombie theme.
-![Illustrative_Zombie](https://static.wikia.nocookie.net/plague-inc/images/7/75/Versão2_IRM_Estágio_6_Vírus_Necroa.png/revision/latest?cb=20191029002223&path-prefix=pt-br)
+![Illustrative_Zombie](https://camo.githubusercontent.com/858c59bc6b5d9e0af36b8a5ae40d3d77f1b90fc39460864fc765c152d2ec47af/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f706c616775652d696e632f696d616765732f372f37352f566572732543332541336f325f49524d5f45737425433325413167696f5f365f562543332541447275735f4e6563726f612e706e672f7265766973696f6e2f6c61746573743f63623d323031393130323930303232323326706174682d7072656669783d70742d6272)
 ## The system use the [sklearn](https://scikit-learn.org/stable/index.html) library<br>With the [KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html?highlight=kneighborsclassifier#sklearn.neighbors.KNeighborsClassifier) and [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html?highlight=randomforestclassifier#sklearn.ensemble.RandomForestClassifier).
 
 # [Example]
